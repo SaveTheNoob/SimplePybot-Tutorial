@@ -3,7 +3,7 @@ Discord Bot Python Tutorial
 
 command prefix = ?
 
-Features - 
+Features  
 ?Coinflip
 ?Ask (question)
 ?dm (Userid or tag them) (message)
